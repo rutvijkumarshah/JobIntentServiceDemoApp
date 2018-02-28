@@ -2,6 +2,8 @@
 
 This is demo app showcasing the bug in JobIntentService Supportlib 26.0.2.
 
+Android Issue Tracker : https://issuetracker.google.com/issues/63072195
+
 This demo app starts the Foreground Service when the app goes to background and stops the Foreground Service when the app is visible to the user.
 
 Run the app and observe the behavior.
